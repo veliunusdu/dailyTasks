@@ -14,5 +14,5 @@ A simple ToDo List application built with [CustomTkinter](https://github.com/Tom
 
 ## Screenshot
 
-![screenshot](screenshot.png) <!--<img width="748" height="476" alt="image" src="https://github.com/user-attachments/assets/97e3aa5c-e90c-48c5-8599-5fa718957131" />
- -->
+<img width="748" height="476" alt="image" src="https://github.com/user-attachments/assets/162284bf-4bde-41c9-a72f-cde87971eae4" />
+
